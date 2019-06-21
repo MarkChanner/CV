@@ -8,9 +8,11 @@ Around the age of ten, I became obsessed with programming on my home computer. I
 
 **Mettrr, London** (August 2018 - present)  
 *Software Developer*
-- Laravel / PHP
-- Vue.js / JavaScript
-- MySQL
+- Apply clean code practices to develop readable, maintainable and scalable code for Mettrr’s in-house software
+- Improve existing code with SOLID design principles
+- Researching, designing and implementing new features
+- Ensure quality with unit and integration tests and applying TDD
+- PHP, Laravel, JavaScript, Vue.js, MySQL
 
 **Japan Racing Association, London** (May 2010 - October 2017)  
 *Japanese Translator*
@@ -45,6 +47,7 @@ One of London's most highly-regarded web development bootcamps, with an emphasis
 **SOAS, University of London** (September 2003 - July 2007)  
 *BA Japanese* (2:1) 
 - Third year spent studying at Keio University, Tokyo
+- Awarded a distinction for final-year dissertation
 
 
 ## Projects
