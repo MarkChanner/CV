@@ -2,7 +2,7 @@
 
 [Experience](#experience) | [Education](#education) | [Projects](#projects)  
 
-Around the age of ten, I became obsessed with programming on my home computer. In an effort to coax me from the house, my mum bought me a skateboard and it worked; I went on to travel the world as a professional skateboarder. After giving demonstrations in Japan, I became interested in the country's language and completed a degree in Japanese. Having worked as a translator in London and rural Japan, I returned to programming and completed both an MSc in Computer Science and an intensive 12-week software development boot camp at Makers Academy. I now work in London as a Software Developer, using such technologies as PHP, Laravel, JavaScript, and Vue.js.
+Around the age of ten, I became obsessed with programming on my home computer. In an effort to coax me from the house, my mum bought me a skateboard and it worked; I went on to travel the world as a professional skateboarder. After giving demonstrations in Japan, I became interested in the country's language and completed a degree in Japanese. Having worked as a translator in London and rural Japan, I returned to programming and completed both an MSc in Computer Science and an intensive 12-week software development boot camp at Makers Academy. I now work in London as a Software Developer with such technologies as JavaScript, Vue.js, PHP and Laravel.
 
 ## Experience
 
@@ -12,7 +12,7 @@ Around the age of ten, I became obsessed with programming on my home computer. I
 - Improve existing code with SOLID design principles
 - Researching, designing and implementing new features
 - Ensure quality with unit and integration tests and applying TDD
-- PHP, Laravel, JavaScript, Vue.js, MySQL
+- JavaScript, Vue.js, PHP, Laravel.
 
 **Japan Racing Association, London** (May 2010 - October 2017)  
 *Japanese Translator*
@@ -54,8 +54,8 @@ One of London's most highly-regarded web development bootcamps, with an emphasis
 
 | Name                                                         |                         Description                          | Technologies                                             | Testing    |
 | ------------------------------------------------------------ | :----------------------------------------------------------: | ------------------------------------------------------------ | ---------------------- |
-| [Melody Maker](https://github.com/MarkChanner/final-project)  | A JavaScript music synthesiser | HTML, CSS, JavaScript, Web Audio API, Canvas API | Jasmine, Cypress       |
-| [Fishnet](https://github.com/ZoeKavanagh/fishnet)        |      A social media platform     | Ruby, Rails, Postgres    | RSpec, Capybara |
 | [Mixed Emotions](https://github.com/MarkChanner/MScComputerScienceProject) |  MSc Computer Science project to help children on the autistic spectrum with facial emotion recognition   | Java, Android                                   | JUnit                  |
+| [Melody Maker](https://github.com/MarkChanner/final-project)  | A JavaScript music synthesiser | HTML, CSS, JavaScript, Web Audio API, Canvas API | Jasmine, Cypress       |
 | [Thermostat](https://github.com/MarkChanner/thermostat-js) | A thermostat simulation | HTML, CSS, JavaScript, jQuery  |  Jasmine      |
+| [Fishnet](https://github.com/ZoeKavanagh/fishnet)        |      A social media platform     | Ruby, Rails, Postgres    | RSpec, Capybara |
 
